@@ -1,0 +1,5 @@
+image: harbor.gujunhuafu.xyz/devops/nginx
+name: demo-app
+replicas: 1
+service: true
+version: 1.14.2
